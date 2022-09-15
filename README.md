@@ -24,5 +24,5 @@ listen to music and play online chess.
 - I Love ❤️ programming
 - 📫 How to reach me: bishalrai111@yahoo.com
 - 🎯 Portfolio site: [Portfolio](https://yoportfolio2021.netlify.app/)
-- 🔔 Challenge me:- [Chess](https://www.chess.com/member/singer011)
+- 🔔 Challenge me:- [♞♗♕](https://www.chess.com/member/singer011)
 - ⚡ Quote: Keep your face to the sunshine and you cannot see a shadow

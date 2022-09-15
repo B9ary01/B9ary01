@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bishalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-rai-06a209125/)](https://www.linkedin.com/in/bishal-rai-06a209125/) 
 [![Yahoo Badge](https://img.shields.io/badge/-bishalrai111@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:bishalrai111@yahoo.com)](mailto:bishalrai111@yahoo.com)
+[![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoportfolio2021.netlify.app/) 
 
 I'm Bishal, currently living in London. I'm a graduate with a Bachelor's degree in Computer Science at Goldsmiths, University of London. I am currently working as a tech trainee at futureproof in London.
 

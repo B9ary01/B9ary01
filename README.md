@@ -6,7 +6,7 @@
 [![Yahoo Badge](https://img.shields.io/badge/-bishalrai111@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:bishalrai111@yahoo.com)](mailto:bishalrai111@yahoo.com)
 [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoportfolio2021.netlify.app/) 
 
-I'm Bishal, currently living in London. I'm a graduate with a Bachelor's degree in Computer Science at Goldsmiths, University of London. I am currently working as a tech trainee at futureproof in London.
+I'm Bishal, currently living in London. I'm a graduate with a Bachelor's degree in Computer Science at Goldsmiths, University of London. I am currently working as a Junior Frontend Developer at 15gifts in Brighton.
 
 I am enthusiastic and driven when it comes to coding and technology in general. My interest in learning and problem solving led me to develop a passion for technology. I am passionate about continuous learning, collaboration and providing solutions to problems. I love building projects using new tools and technologies. During my spare time, I like to go out,
 listen to music and play online chess.

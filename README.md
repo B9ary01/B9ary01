@@ -6,15 +6,15 @@
 [![Yahoo Badge](https://img.shields.io/badge/-bishalrai111@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:bishalrai111@yahoo.com)](mailto:bishalrai111@yahoo.com)
 [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoportfolio2021.netlify.app/) 
 
-Hello, I'm Bishal, currently working as a frontend developer at 15gifts.
+Hello, I'm Bishal, a front-end developer at 15gifts.
 
-I am enthusiastic and driven when it comes to coding and technology in general. My interest in learning and problem solving led me to develop a passion for technology. I am passionate about continuous learning, collaboration and providing solutions to problems. I love building projects using new tools and technologies. During my spare time, I like to go out,
+I am enthusiastic and driven about coding and technology in general. My interest in learning and problem-solving led me to develop a passion for technology. I am passionate about continuous learning, collaboration and providing solutions to problems. I love building projects using new tools and technologies. During my spare time, I like to go out,
 listen to music and play chess online.
 
 
 ## ⚡ Technologies
 
-- Front-end development using **HTML, Javascript,CSS,ReactJS,Bootstrap**
+- Front-end development using **HTML, Javascript,CSS, ReactJS, Bootstrap**
 - Backend development using **NodeJS, Python**
 - Querying for **Relational/Non-Relational Database Management Systems**
 - Mobile application development using **Android and Java**
@@ -22,6 +22,5 @@ listen to music and play chess online.
 
 ## About me 🤔
 - 📫 How to reach me: bishalrai111@yahoo.com
-- 🎯 Portfolio site: [Portfolio](https://yoportfolio2021.netlify.app/)
-- 🔔 Challenge me:- [♞♗♕](https://www.chess.com/member/singer011)
+- 🎯 Portfolio site: [Portfolio](https://bishalfolio.netlify.app/)
 - ⚡ Quote: Keep your face to the sunshine and you cannot see a shadow

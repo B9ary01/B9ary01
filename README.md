@@ -6,10 +6,7 @@
 [![Yahoo Badge](https://img.shields.io/badge/-bishalrai111@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:bishalrai111@yahoo.com)](mailto:bishalrai111@yahoo.com)
 [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoportfolio2021.netlify.app/) 
 
-Hello, I'm Bishal, a front-end developer at 15gifts.
-
-I am enthusiastic and driven about coding and technology in general. My interest in learning and problem-solving led me to develop a passion for technology. I am passionate about continuous learning, collaboration and providing solutions to problems. I love building projects using new tools and technologies. During my spare time, I like to go out,
-listen to music and play chess online.
+Results-oriented Software Engineer passionate about crafting innovative solutions. Committed to delivering high-quality, and user-centric applications. Proficient in Agile methodologies, I excel in collaborative settings and am eager to contribute to challenging projects that push the boundaries of technology. Outside of work, I enjoy exploring new hobbies, listening to music, and playing online chess.
 
 
 ## ⚡ Technologies

@@ -14,11 +14,14 @@ listen to music and play chess online.
 
 ## ⚡ Technologies
 
-- Front-end development using **HTML, Javascript,CSS, ReactJS, Bootstrap**
-- Backend development using **NodeJS, Python**
+- Front-end development using **HTML, CSS, Javascript, TypeScript, ReactJS**
+- Backend development using **NodeJS, ExpressJS, RESTful APIs**
 - Querying for **Relational/Non-Relational Database Management Systems**
 - Mobile application development using **Android and Java**
 - Solving Data structure and algorithm questions in **Java and Javascript**
+- Testing: **Jest**
+- Version Control: **Git**
+- Methodologies: **Agile, Kanban**
 
 ## About me 🤔
 - 📫 How to reach me: bishalrai111@yahoo.com

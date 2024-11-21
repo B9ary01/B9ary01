@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bishalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-rai-06a209125/)](https://www.linkedin.com/in/bishal-rai-06a209125/) 
 [![Yahoo Badge](https://img.shields.io/badge/-bishalrai111@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:bishalrai111@yahoo.com)](mailto:bishalrai111@yahoo.com)
-[![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yoportfolio2021.netlify.app/) 
+[![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bishalfolio.netlify.app/) 
 
 Results-oriented Software Engineer passionate about crafting innovative solutions. Committed to delivering high-quality, and user-centric applications. Proficient in Agile methodologies, I excel in collaborative settings and am eager to contribute to challenging projects that push the boundaries of technology. Outside of work, I enjoy exploring new hobbies, listening to music, and playing online chess.
 

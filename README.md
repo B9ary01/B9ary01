@@ -11,12 +11,12 @@ Results-oriented Software Engineer passionate about crafting innovative solution
 
 ## ⚡ Technologies
 
-- Front-end development using **HTML, CSS, Javascript, TypeScript, ReactJS**
+- Front-end development using **HTML, CSS, Javascript, TypeScript, ReactJS, WordPress**
 - Backend development using **NodeJS, ExpressJS, RESTful APIs**
 - Querying for **Relational/Non-Relational Database Management Systems**
 - Mobile application development using **Android and Java**
 - Solving Data structure and algorithm questions in **Java and Javascript**
-- Testing: **Jest**
+- Testing: **Jest, React Testing Library**
 - Version Control: **Git**
 - Methodologies: **Agile, Kanban**
 
